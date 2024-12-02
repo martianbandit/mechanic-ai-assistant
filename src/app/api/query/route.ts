@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { MechanicCrew } from '@/lib/crew/mechanicCrew'
+import { MechanicCrew } from '../../../lib/crew/mechanicCrew'
 
 export async function POST(req: NextRequest) {
   try {
