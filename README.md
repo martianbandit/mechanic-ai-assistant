@@ -36,7 +36,7 @@ npm run dev
 ```
 
 ## Configuration
-Créez un fichier `.env.local` avec vos clés API :
+Créez un fichier `.env.local` avec vos clés API 
 ```
 OPENAI_API_KEY=your_openai_key
 ```
